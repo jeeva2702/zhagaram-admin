@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">zha</string>
+    <string name="welcometo">Welcome</string>
+    <string name="getstarted">Fill out the form to get started</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_dob">Date Of Birth</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_mail">Email Address</string>
+    <string name="hint_location">District</string>
+    <string name="hint_post">Constituency</string>
+    <string name="hint_profession">Profession</string>
+    <string name="signup">Sign Up</string>
+    <string name="already_account">Already have an account? <b>Login</b> here</string>
+    <string name="hint_mailphone">Email or Phone Number</string>
+    <string name="hint_password">Password</string>
+    <string name="signin">Login</string>
+    <string name="no_account">Don\'t have an account? <b>Sign Up</b> here</string>
+    <string name="getin">Please enter the credentials</string>
+    <string name="err_msg_mail">Please enter a valid Email Address</string>
+    <string name="err_msg_password">Minimum password length is 8 characters</string>
+    <string name="err_msg_name">Minimum length is 5 characters</string>
+    <string name="err_msg_dob">Please enter Date Of Birth</string>
+    <string name="err_msg_phone">Please enter a 10 digit number</string>
+    <string name="err_msg_location">Please enter a valid Location</string>
+    <string name="err_msg_profession">Please enter a valid profession</string>
+    <string name="err_msg_post">Please select a valid post</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="MP_type">
+        <item>Select</item>
+        <item>THIRUVALLUR</item>
+        <item>CHENNAI</item>
+        <item>KANCHEEPURAM</item>
+        <item>VELLORE</item>
+        <item>KRISHNAGIRI</item>
+        <item>DHARMAPURI</item>
+        <item>TIRUVANNAMALAI</item>
+    </string-array>
+</resources>
